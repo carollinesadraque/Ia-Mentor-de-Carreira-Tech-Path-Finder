@@ -25,4 +25,5 @@ O sistema opera em duas etapas:
 📝 Como utilizar:
 Acesse o ChatGPT (ou sua ferramenta de IA de preferência);
 Copie e cole o Prompt 1 disponível neste projeto;
-Após a resposta, insira o Prompt 2 (Plano de Ação).Siga o cronograma gerado e comece sua transição!
+Após a resposta, insira o Prompt 2 (Plano de Ação).
+Siga o cronograma gerado e comece sua transição!
